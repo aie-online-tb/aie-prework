@@ -1,6 +1,6 @@
 ![LogoTB](img/logo.png)
 
-# Prework de Python - Bootcamp AI Engineering Mayo 2026
+# Python Prework - Bootcamp AI Engineering Mayo 2026
 
 ¡Bienvenid@, estás a punto de dar tus primeros pasos en el mundo de la IA!  
 
@@ -14,7 +14,7 @@ Puedes ejecutar los *notebooks* de tres formas distintas. Elige la que más te c
 
 ## Opción 1: Google Colab ⭐ (recomendada)
 
-No necesitas instalar nada. Si tienes cuenta de Google, estás list@. Pulsa el botón para abrir el primer notebook directamente en Colab.
+No necesitas instalar nada. Si tienes cuenta de Google, estás list@. Pulsa el botón para abrir el primer *notebook* directamente en Colab.
 
 <p align="center">
   <a href="https://colab.research.google.com/github/rodolso/test-prework-ai/blob/main/notebooks/0_Jupyter_Notebooks.ipynb">
@@ -22,9 +22,9 @@ No necesitas instalar nada. Si tienes cuenta de Google, estás list@. Pulsa el b
   </a>
 </p>
 
-> ⚠️ Colab es un entorno temporal: todo lo que generes (archivos, datos descargados) se elimina al cerrar la sesión. Guarda una copia del notebook en Drive (**Archivo > Guardar una copia en Drive**) y descarga cualquier dato que quieras conservar.
-
-> 💡 Cada notebook tiene su propio botón de Colab en la primera celda.
+> ⚠️ Colab es un entorno temporal: todo lo que generes (archivos, datos descargados) se elimina al cerrar la sesión. Guarda una copia del *notebook* en Drive (**Archivo > Guardar una copia en Drive**) y descarga cualquier dato que quieras conservar.
+>
+> 💡 Cada *notebook* tiene su propio botón de Colab en la primera celda.
 
 ---
 
@@ -36,7 +36,7 @@ Entorno preconfigurado que permite usar VS Code directamente en el navegador. Ne
 
 **2. Haz clic en "Create codespace":** no cambies ninguna opción, solo confirma.
 
-**3. Espera unos minutos ☕:** cuando esté listo, abre la carpeta `notebooks/` y empieza por el notebook de introducción `0_Jupyter_Notebooks.ipynb`
+**3. Espera unos minutos ☕:** cuando esté listo, abre la carpeta `notebooks/` y empieza por el *notebook* de introducción `0_Jupyter_Notebooks.ipynb`
 
 <p align="center">
   <a href="https://codespaces.new/rodolso/test-prework-ai">
@@ -59,9 +59,11 @@ pip install ipykernel
 code .
 ```
 
-Una vez en VS Code, empieza por el notebook de introducción `0_Jupyter_Notebooks.ipynb`
+Una vez en VS Code, empieza por el *notebook* de introducción `0_Jupyter_Notebooks.ipynb`
 
 ---
 
 ¡Mucho ánimo! No importa si nunca has programado antes, cada error que veas es parte del proceso.  
-Ejecuta, experimenta, rómpelo y vuélvelo a arreglar. Así es como se aprende a programar, y así es como empieza tu camino en la IA. 🚀
+Ejecuta, experimenta, rómpelo y vuélvelo a arreglar.  
+
+Así es como se aprende a programar, y así es como empieza tu camino en AI Engineering. 🚀
