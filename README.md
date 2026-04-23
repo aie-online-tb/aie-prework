@@ -17,7 +17,7 @@ Puedes ejecutar los *notebooks* de tres formas distintas. Elige la que más te c
 No necesitas instalar nada. Si tienes cuenta de Google, estás list@. Pulsa el botón para abrir el primer *notebook* directamente en Colab.
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/rodolso/test-prework-ai/blob/main/notebooks/0_Jupyter_Notebooks.ipynb">
+  <a href="https://colab.research.google.com/github/aie-online-tb/aie-prework/blob/main/notebooks/0_Jupyter_Notebooks.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir en Colab"/>
   </a>
 </p>
@@ -39,7 +39,7 @@ Entorno preconfigurado que permite usar VS Code directamente en el navegador. Ne
 **3. Espera unos minutos ☕:** cuando esté listo, abre la carpeta `notebooks/` y empieza por el *notebook* de introducción `0_Jupyter_Notebooks.ipynb`
 
 <p align="center">
-  <a href="https://codespaces.new/rodolso/test-prework-ai">
+  <a href="https://codespaces.new/aie-online-tb/aie-prework">
     <img src="https://github.com/codespaces/badge.svg" alt="Open in GitHub Codespaces"/>
   </a>
 </p>
@@ -53,7 +53,7 @@ Necesitas tener **Python 3** y **VS Code** instalados (nuestro IDE de referencia
 **Extensiones de VS Code recomendadas:** [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) y [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
 
 ```bash
-git clone https://github.com/rodolso/test-prework-ai
+git clone https://github.com/aie-online-tb/aie-prework.git
 cd test-prework-ai
 pip install ipykernel
 code .
